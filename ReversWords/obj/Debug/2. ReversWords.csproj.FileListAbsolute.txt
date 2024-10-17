@@ -1,0 +1,7 @@
+C:\Users\rom-g\source\repos\5.5_Methods\ReversWords\bin\Debug\ReversWords.exe.config
+C:\Users\rom-g\source\repos\5.5_Methods\ReversWords\bin\Debug\ReversWords.exe
+C:\Users\rom-g\source\repos\5.5_Methods\ReversWords\bin\Debug\ReversWords.pdb
+C:\Users\rom-g\source\repos\5.5_Methods\ReversWords\obj\Debug\2. ReversWords.csproj.AssemblyReference.cache
+C:\Users\rom-g\source\repos\5.5_Methods\ReversWords\obj\Debug\2. ReversWords.csproj.CoreCompileInputs.cache
+C:\Users\rom-g\source\repos\5.5_Methods\ReversWords\obj\Debug\ReversWords.exe
+C:\Users\rom-g\source\repos\5.5_Methods\ReversWords\obj\Debug\ReversWords.pdb

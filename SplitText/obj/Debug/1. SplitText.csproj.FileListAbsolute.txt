@@ -1,0 +1,7 @@
+C:\Users\rom-g\source\repos\5.5_Methods\5.5_Methods\bin\Debug\5.5_Methods.exe.config
+C:\Users\rom-g\source\repos\5.5_Methods\5.5_Methods\bin\Debug\5.5_Methods.exe
+C:\Users\rom-g\source\repos\5.5_Methods\5.5_Methods\bin\Debug\5.5_Methods.pdb
+C:\Users\rom-g\source\repos\5.5_Methods\5.5_Methods\obj\Debug\1. SplitText.csproj.AssemblyReference.cache
+C:\Users\rom-g\source\repos\5.5_Methods\5.5_Methods\obj\Debug\1. SplitText.csproj.CoreCompileInputs.cache
+C:\Users\rom-g\source\repos\5.5_Methods\5.5_Methods\obj\Debug\5.5_Methods.exe
+C:\Users\rom-g\source\repos\5.5_Methods\5.5_Methods\obj\Debug\5.5_Methods.pdb

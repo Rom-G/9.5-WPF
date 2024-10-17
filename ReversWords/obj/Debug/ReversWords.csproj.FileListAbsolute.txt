@@ -1,0 +1,7 @@
+C:\Users\rom-g\source\repos\9.5-WpfSentence\ReversWords\bin\Debug\ReversWords.exe.config
+C:\Users\rom-g\source\repos\9.5-WpfSentence\ReversWords\bin\Debug\ReversWords.exe
+C:\Users\rom-g\source\repos\9.5-WpfSentence\ReversWords\bin\Debug\ReversWords.pdb
+C:\Users\rom-g\source\repos\9.5-WpfSentence\ReversWords\obj\Debug\ReversWords.csproj.AssemblyReference.cache
+C:\Users\rom-g\source\repos\9.5-WpfSentence\ReversWords\obj\Debug\ReversWords.csproj.CoreCompileInputs.cache
+C:\Users\rom-g\source\repos\9.5-WpfSentence\ReversWords\obj\Debug\ReversWords.exe
+C:\Users\rom-g\source\repos\9.5-WpfSentence\ReversWords\obj\Debug\ReversWords.pdb
